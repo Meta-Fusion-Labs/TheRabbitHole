@@ -1,4 +1,5 @@
 import React, { CSSProperties } from 'react';
+import { SignIn } from '@clerk/nextjs';
 
 const navbarStyles: CSSProperties = {
   display: 'flex',
@@ -42,6 +43,10 @@ const buttonStyles: CSSProperties = {
   cursor: 'pointer',
 };
 
+const SignInPage = () => (
+    <SignIn path="/sign-in" routing="path" signUpUrl="/sign-up" />
+    );
+
 const Navbar: React.FC = () => {
   return (
     <nav style={navbarStyles}>
@@ -54,9 +59,10 @@ const Navbar: React.FC = () => {
       </button>
       <div>
         <button style={buttonStyles}>Connect Wallet</button>
-        <button style={buttonStyles}>FuturePass</button>
+        <button style={buttonStyles} onClick={() => (window.location.href = 'https://www.futureverse.com/technology/futurepass')}
+        >FuturePass</button>
         <button style={buttonStyles}>Mint NFT</button>
-        <button style={buttonStyles}>Explore</button>
+
       </div>
     </nav>
   );
