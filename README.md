@@ -26,7 +26,7 @@ To get started with the Community-Run Dapp, follow these steps:
 
 1. Install the required dependencies by running `npm install` or `yarn install`.
 
-2. Cloe the repo and work on you own app, contact MFL to contribute directly. see contributing below...
+2. Clone the repo and work on you own app, contact MFL to contribute directly. see contributing below...
 
 3. Explore the Open Metaverse, join communities, attend events, and collaborate with other users.
 
@@ -46,7 +46,7 @@ We welcome contributions from the community to enhance and expand the Community-
 
 ## Support
 
-If you encounter any issues, have questions, or need assistance with the Community-Run Dapp, please reach out to our support team at [support@example.com](mailto:support@example.com).
+If you encounter any issues, have questions, or need assistance with the Community-Run Dapp, please reach out to our support team at [info@metafusionlabs.ai](https://www.metafusionlabs.ai).
 
 ## License
 
