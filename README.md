@@ -4,21 +4,21 @@ Welcome to the first Meta Fusion Labs Community-Run Root Network Dapp! This dece
 
 ## About
 
-The Community-Run Dapp is a platform designed to foster collaboration, creativity, and innovation within the virtual world. It leverages the capabilities of the Root Network to provide a decentralized infrastructure and incorporates the Open Metaverse, a collective virtual shared space, where users can explore, interact, and create together.
+The Community-Run Dapp is a platform designed to foster collaboration, creativity, and innovation within the virtual world. It will leverage the capabilities of the Root Network and the XRPL to provide a decentralized infrastructure and incorporates the Open Metaverse, a collective virtual shared space, where users can explore, interact, and create together.
 
 As part of the Futureverse ecosystem, the Community-Run Dapp benefits from partnerships with leading organizations, projects, and communities that are shaping the future of the metaverse. These partnerships enable us to provide unique experiences, services, and opportunities to our users.
 
 ## Features
 
-- **Virtual World Exploration:** Dive into the Open Metaverse and explore a vast virtual world filled with diverse landscapes, environments, and communities.
+- **Virtual World Exploration and Lore Building:** Dive into the Open Metaverse and explore the lore of a vast virtual world filled with diverse landscapes, environments, and communities.
 
 - **Collaborative Spaces:** Connect and collaborate with like-minded individuals, artists, creators, and developers in shared virtual spaces.
 
 - **Creativity and Customization:** Unleash your creativity by building and customizing your virtual assets, avatars, and environments.
 
-- **Decentralized Economy:** Engage in a decentralized economy within the dapp, where users can buy, sell, and trade digital assets securely using blockchain technology.
+- **Decentralized Economy:** Creating a decentralized economy within dapps, where users can buy, sell, and trade digital assets securely using blockchain technology.
 
-- **Futureverse Partnerships:** Access exclusive services, content, and events through our partnerships within the Futureverse ecosystem.
+- **Futureverse Partnerships:** Access exclusive services, content, and events through partnerships within the Futureverse ecosystem.
 
 ## Getting Started
 
@@ -52,7 +52,7 @@ If you encounter any issues, have questions, or need assistance with the Communi
 
 The Community-Run Dapp is open-source software released under the [MIT License](LICENSE).
 
-The Dapp template is built with the create T3 App full stack framework.
+The Dapp template is built with the create T3 App full stack framework, details below.
 
 
 
